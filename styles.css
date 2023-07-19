@@ -67,6 +67,15 @@ span{
 
 }
 
+.apresentacao__conteudo__sobremim {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    font-family: var(--fonte-primaria);
+
+}
+
 .apresentacao__conteudo__titulo{
     font-size: 2.25rem;
     font-family: var(--fonte-secundaria);

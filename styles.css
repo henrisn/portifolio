@@ -68,7 +68,7 @@ span{
 }
 
 .apresentacao__conteudo__sobremim {
-    width: 70%;
+    width: 80%;
     display: flex;
     flex-direction: column;
     gap: 40px;
